@@ -1,0 +1,4 @@
+attribute vendor_persist_type;
+attribute vendor_hal_perf_client;
+attribute vendor_hal_perf;
+attribute vendor_sysfs_battery_supply;
